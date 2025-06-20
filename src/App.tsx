@@ -258,7 +258,6 @@ const FlomoApp = () => {
       <div className="max-w-6xl mx-auto p-6">
         {/* 头部 */}
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-4">我的笔记本</h1>
           
           {/* 搜索栏 */}
           <div className="relative mb-4">
